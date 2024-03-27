@@ -1,0 +1,10 @@
+# IDE Environemnt files
+.idea
+.vscode
+
+# MAC environment
+.DS_Store
+**/.DS_Store
+
+# CSV files
+*.csv
